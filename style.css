@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-style: "Libre Baskerville" , serif;
+    text-align: left;
+    color: whitesmoke;;
+    font-size: 90px;
+    text-align: center;
+}
+
+.Parent{
+    display: flex;
+    gap: 30px;
+}
+
+img{
+    height: 550px;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: white;
+    border: 5px solid white;
+}
+
+
+p{
+    font-style: oblique;
+    color: whitesmoke;
+    font-size: 60px;
+    text-align: center;
+}
